@@ -7,4 +7,6 @@
 
 ## 由线头开始
 
+{{< admonition note "本地资源引用" >}} {{< version 0.2.10 >}}
+
 
